@@ -7,4 +7,6 @@ Hello my name is Manasvee(Manasvee's mkd file).
 Hello my name is [Jack](jack.txt)
 Hello my name is [Hannah](Hannah.md)
 
+Hello my name is [James](james.md)
+
 Hello my name is [Anshu](Anshu.md)
